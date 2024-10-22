@@ -8,7 +8,7 @@ Continuing on from our previous update, we've continued to refine our consignee 
 
 In addition to our existing `Name` (previously called `Default`) and `Unique ID` search methods, we've also added two new methods, `Address` and `Advanced`. These new search methods allow you to adjust the application to your workflow, instead of having to adjust your workflow around it.
 
-![Search method dropdown](assets/search-method-options.webp)
+![Search method dropdown](https://raw.githubusercontent.com/GLSCanada/shipping-assets/7634f3136d650c4b252f5ff743e14d4a1b2d7352/release-notes/3.0.17/assets/search-method-options.webp)
 
 - `Name` search has been greatly improved to more accurately rank relevant results higher.
 - `Unique ID` search should be more performant.
@@ -21,7 +21,7 @@ Experiment with the different search methods and chose which one works best for 
 
 When adding packages to your freight shipment, you now have the ability to fill in an optional Description field. Whatever information you populate here will appear on your bill of lading.
 
-![Description field on package details](assets/parcel-description-field.png)
+![Description field on package details](https://raw.githubusercontent.com/GLSCanada/shipping-assets/7634f3136d650c4b252f5ff743e14d4a1b2d7352/release-notes/3.0.17/assets/parcel-description-field.png)
 
 ### Fixes & Other Misc Changes
 
