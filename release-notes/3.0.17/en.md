@@ -8,6 +8,8 @@ Continuing on from our previous update, we've continued to refine our consignee 
 
 In addition to our existing `Name` (previously called `Default`) and `Unique ID` search methods, we've also added two new methods, `Address` and `Advanced`. These new search methods allow you to adjust the application to your workflow, instead of having to adjust your workflow around it.
 
+![Search method dropdown](assets/search-method-options.webp)
+
 - `Name` search has been greatly improved to more accurately rank relevant results higher.
 - `Unique ID` search should be more performant.
 - `Address` search allows you to lookup consignees by street line and/or postal code.

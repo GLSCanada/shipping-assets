@@ -8,6 +8,8 @@ Dans la continuité de notre mise à jour précédente, nous avons continué à 
 
 En plus de nos méthodes de recherche existantes `Nom` (anciennement appelées `Par défaut`) et `ID unique`, nous avons également ajouté deux nouvelles méthodes, `Adresse` et `Avancée`. Ces nouvelles méthodes de recherche vous permettent d'adapter l'application à votre flux de travail, au lieu de devoir ajuster votre flux de travail en fonction de celui-ci.
 
+![Liste déroulante des méthodes de recherche](assets/search-method-options.webp)
+
 - La recherche `Nom` a été grandement améliorée pour classer plus précisément les résultats pertinents.
 - La recherche `ID unique` devrait être plus performante.
 - La recherche `Adresse` vous permet de rechercher des destinataires par ligne de rue et/ou code postal.
