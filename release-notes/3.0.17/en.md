@@ -25,6 +25,9 @@ When adding packages to your freight shipment, you now have the ability to fill 
 
 ### Fixes & Other Misc Changes
 
-- Improved the reliability of bulk consignee import
+- Improved the reliability of consignee bulk import
 - Improved residential address detection
 - Fixed an issue that on rare occasions scheduled a pickup for the default sender instead of the currently selected sender
+- Fixed an issue that would misleadingly display an error when updating a user even though no error had occurred
+- Fixed an issue that prevented a user from being deleted
+- Minor localization improvements

@@ -28,3 +28,6 @@ Lorsque vous ajoutez des colis à votre expédition de fret, vous avez désormai
 - Amélioration de la fiabilité de l'importation en masse des destinataires
 - Amélioration de la détection des adresses résidentielles
 - Correction d'un problème qui, dans de rares cas, planifiait un ramassage pour l'expéditeur par défaut au lieu de l'expéditeur actuellement sélectionné
+- Correction d'un problème qui affichait de manière trompeuse une erreur lors de la mise à jour d'un utilisateur même si aucune erreur ne s'était produite
+- Correction d'un problème qui empêchait la suppression d'un utilisateur
+- Améliorations mineures de la localisation
