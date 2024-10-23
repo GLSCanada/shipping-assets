@@ -15,7 +15,7 @@ In addition to our existing `Name` (previously called `Default`) and `Unique ID`
 - `Address` search allows you to lookup consignees by street line and/or postal code.
 - `Advanced` search is a wildcard search that can find consignees by nearly any information, including all of the above but also contact names, email addresses, phone numbers and more. Though it's very flexible, due to its wide-reaching nature, performance is more variable and results might not always bring the expected results since it has a higher chance of matching across many different fields.
 
-Experiment with the different search methods and chose which one works best for you.
+Experiment with the different search methods and choose which one works best for you.
 
 #### Descriptions for freight packages
 
