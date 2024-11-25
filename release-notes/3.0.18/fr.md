@@ -26,4 +26,6 @@ Nous avons également supprimé le statut obligatoire du champ du compte de fact
 - Correction d'un problème qui pouvait potentiellement empêcher la suppression d'un expéditeur
 - Correction d'un problème qui empêchait la révélation des détails de suivi complets lorsqu'un code postal de destination valide était fourni
 - Correction d'un problème qui entraînait l'absence d'informations de suivi pendant une brève période sur certains envois
+- Correction d'un problème où les heures de livraison estimées affichaient un fuseau horaire incorrect
+- Ajout d'une option manquante « Autoriser les noms de destinataires en double » aux préférences de l'organisation
 - Corrections de localisation mineures

@@ -26,4 +26,6 @@ We've also removed the mandatory status on the billing account field. When a bil
 - Fixed an issue that could potentially prevent a sender from being deleted
 - Fixed an issue that prevented full tracking details from being revealed when a valid destination postal code was provided
 - Fixed an issue that resulted in no tracking information for a brief period on certain shipments
+- Fixed an issue where delivery ETA's were displaying the incorrect timezone
+- Added a missing 'allow duplicate consignee names' option to organization preferences
 - Minor localization corrections
