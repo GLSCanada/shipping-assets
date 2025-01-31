@@ -1,43 +1,42 @@
 ## v3.1.0
 
-### New Features & Improvements
+# Nouvelles Fonctionnalités et Améliorations  
 
-#### Consignee exporting
+### Exportation des Consignataires  
+- Vous pouvez désormais exporter l'intégralité de votre carnet d'adresses des consignataires.  
+- Un nouveau bouton **Exporter les consignataires** dans la section des consignataires vous permet de télécharger votre liste sous forme de fichier Excel.  
 
-We now support the ability to export your entire consignee address book. A new `Export Consignees` button is available on the consignees section that will allow you to export your consignees to an Excel spreadsheet.
+### Historique des Expéditions  
+- Ajout d'un nouvel onglet **Historique des comptes d'expédition** dans la section des expéditions.  
+- Consultez l'historique complet des expéditions de tout compte de facturation associé à votre connexion.  
 
-#### Shipment history
+### Affichage des Expéditions Liées à une Facture de Colis  
+- Dans la section **Facturation**, il est désormais possible de voir directement sur la plateforme toutes les expéditions associées à une facture donnée.  
 
-We've added a new `Shipment Account History` tab to our shipments section that allows you to view the entire shipment history of any billing account connected with your login.
+### Sélection Simplifiée des Préréglages de Colis  
+- Lors de la sélection d’un préréglage de colis, celui-ci est désormais automatiquement ajouté à votre expédition en cours.  
 
-#### View shipments connected to a parcel invoice
+### Fonctionnalité de Réimpression d'Étiquette d'Expédition dans le Suivi  
+- Vous pouvez maintenant **réimprimer une étiquette d'expédition** directement depuis la section **Suivi** pour une référence rapide.  
 
-When viewing your parcel invoices under billing, we now support the ability to view any shipments associated with that invoice directly on our shipping platform.
+---
 
-#### Streamlined package preset selection
+# Corrections et Autres Modifications  
 
-Now when selecting a package preset, the preset will automatically be added as a package to your current shipment.
-
-#### Shipping label re-print functionality on tracking
-
-You now have the ability to re-print a shipping label directly from the tracking section for easy reference.
-
-### Fixes & Other Misc Changes
-
-- Closed pickups are no longer shown as an available option when creating a shipment
-- Customer ID's are now shown correctly on the label when the 'Display unique ID on waybill' option is enabled
-- Certain numeric input fields (e.g., weight and dimensions) now correctly accept decimal values
-- Tracking will no longer display out for delivery when a parcel is still in transit
-- Fixed an issue that would prevent a rate estimate from being generated if the parcel had DGG
-- Fixed an issue that would sometimes prevent registration when an address was typed in manually
-- Fixed an issue that would on rare occasion prevent a consignee's address or contacts from being modified
-- Signature-related surcharges are now being handled correctly on quick rate
-- Reference numbers on the pre-billing tab within the billing section now have hyperlinks to tracking
-- Billing reference codes are now displayed in the current locale (e.g., FAC instead of INV)
-- Added a missing unit suffix to the weight field for DGG shipments for improved clarity
-- The consignee search dropdown now displays the default collect billing account, when applicable
-- The pickups section now has a filter to only display active pickups, which is enabled by default
-- The unlock full shipment details button has been replaced with a much more prominent and easy-to-use card
-- We've added a hyperlink to the useful documents section of our website to the support page
-- Fixed a label display issue when a comma was used inside a freight billing reference
-- Added instructions as an available column under advanced shipment reports
+- Les ramassages fermés ne sont plus affichés comme une option disponible lors de la création d'une expédition.  
+- Les identifiants clients sont désormais affichés correctement sur l'étiquette lorsque l'option **Afficher l'ID unique sur le connaissement** est activée.  
+- Certains champs numériques (ex. : poids et dimensions) acceptent désormais correctement les valeurs décimales.  
+- Le suivi n'affichera plus **En cours de livraison** lorsqu'un colis est toujours en transit.  
+- Correction d'un problème empêchant parfois l'estimation du tarif lorsqu'un colis contenait des **marchandises dangereuses (DGG)**.  
+- Correction d'un problème empêchant, dans certains cas, l'enregistrement d'une adresse lorsqu'elle était saisie manuellement.  
+- Correction d'un problème rare empêchant la modification de l'adresse ou des contacts d'un consignataire.  
+- Les surcharges liées à la signature sont désormais correctement prises en compte dans l'estimation rapide des tarifs.  
+- Les numéros de référence de l'onglet pré-facturation dans la section **Facturation** sont maintenant des liens vers le suivi.  
+- Les codes de référence de facturation sont désormais affichés dans la langue locale (ex. : **FAC** au lieu de **INV**).  
+- Ajout d’un suffixe d'unité manquant au champ **poids** des envois contenant des **marchandises dangereuses (DGG)** pour plus de clarté.  
+- Le menu déroulant de recherche des consignataires affiche désormais par défaut le **compte de facturation à perception**, lorsqu'il est applicable.  
+- La section **Ramassages** dispose désormais d'un filtre activé par défaut pour n'afficher que les **ramassages actifs**.  
+- Le bouton **Déverrouiller les détails complets de l'expédition** a été remplacé par une **carte plus visible et facile à utiliser**.  
+- Un lien vers la section **Documents utiles** du site web a été ajouté à la page **Support**.  
+- Correction d'un problème d'affichage des étiquettes lorsque des virgules étaient utilisées dans une référence de facturation fret.  
+- La colonne **Instructions** est désormais disponible dans les **rapports d'expédition avancés**.  
