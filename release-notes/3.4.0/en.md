@@ -1,15 +1,8 @@
 ## v3.4.0
 
-We're pleased to announce v3.4.0. This release that adds an important new way to ship and improves clarity around costs, customs, exports, and pickups. This update focuses on making one-off shipping simple, showing clearer pricing, handling customs more intuitively, and fixing a number of small annoyances.
-
-### Guest Shipping
-
-Ship without an account: guest shipping is now available!
-
-Anyone can create and pay for a shipment without registering for an account, ideal for one-time shippers or quick drop-offs. Guests complete checkout using a secure, modern payment flow and receive confirmation and tracking updates by email.
-
-![Guest shipping](assets/guest-shipping.png)
-
+We're pleased to announce v3.4.0. 
+ 
+This update focuses on displaying clearer pricing, handling customs more intuitively, and fixing a number of small annoyances. 
 
 ### What's new?
 
