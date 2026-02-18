@@ -10,7 +10,7 @@ Cette version apporte des améliorations majeures en matière de sécurité, de 
 - Les réponses de connexion sont désormais identiques, qu'un compte existe ou non, ce qui réduit les risques de découverte de comptes
 - Des messages clairs expliquent lorsqu'un compte est verrouillé et quand il pourra être réutilisé
 
-![Login image](assets/login-fr.png)
+![Login image](https://github.com/GLSCanada/shipping-assets/blob/54384c6d97bb899cf5d52b2be5019e6be658e8b9/release-notes/3.5.0/assets/login-fr.png)
 
 #### Gestion améliorée des sessions
 
@@ -29,7 +29,7 @@ Cette version apporte des améliorations majeures en matière de sécurité, de 
 - Option afficher/masquer le mot de passe ajoutée à tous les champs concernés
 - Prise en charge complète en français et en anglais
 
-![Password image](assets/password-fr.png)
+![Password image](https://github.com/GLSCanada/shipping-assets/blob/54384c6d97bb899cf5d52b2be5019e6be658e8b9/release-notes/3.5.0/assets/password-fr.png)
 
 #### Expiration et notifications des mots de passe
 
@@ -37,7 +37,7 @@ Cette version apporte des améliorations majeures en matière de sécurité, de 
 - Notifications envoyées avant l'expiration et lorsque le mot de passe est expiré
 - Les notifications ouvrent directement l'écran de changement de mot de passe
 
-![Alert image](assets/alert-fr.png)
+![Alert image](https://github.com/GLSCanada/shipping-assets/blob/54384c6d97bb899cf5d52b2be5019e6be658e8b9/release-notes/3.5.0/assets/alert-fr.png)
 
 #### Modification simplifiée des mots de passe
 
@@ -53,7 +53,7 @@ Cette version apporte des améliorations majeures en matière de sécurité, de 
 - Les administrateurs peuvent modifier les adresses courriel d'autres utilisateurs (selon les permissions)
 - Lorsqu'un compte principal met à jour son courriel, l'adresse de contact de l'organisation est automatiquement synchronisée
 
-![User details image](assets/user-detail-fr.png)
+![User details image](https://github.com/GLSCanada/shipping-assets/blob/54384c6d97bb899cf5d52b2be5019e6be658e8b9/release-notes/3.5.0/assets/user-detail-fr.png)
 
 #### Notifications et alertes
 

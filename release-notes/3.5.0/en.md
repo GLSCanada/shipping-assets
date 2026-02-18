@@ -10,7 +10,7 @@ This release delivers a major upgrade to security, account management, and usabi
 - Login responses are now consistent whether an account exists or not, reducing the risk of account discovery
 - Clear on-screen messaging explains when an account is locked and when it can be accessed again
 
-![Login image](assets/login-en.png)
+![Login image](https://github.com/GLSCanada/shipping-assets/blob/54384c6d97bb899cf5d52b2be5019e6be658e8b9/release-notes/3.5.0/assets/login-en.png)
 
 #### Improved Session Management
 
@@ -29,7 +29,7 @@ This release delivers a major upgrade to security, account management, and usabi
 - Show/hide password option added to all password fields
 - Fully supported in English and French
 
-![Password image](assets/password-en.png)
+![Password image](https://github.com/GLSCanada/shipping-assets/blob/54384c6d97bb899cf5d52b2be5019e6be658e8b9/release-notes/3.5.0/assets/password-en.png)
 
 #### Password Expiry & Notifications
 
@@ -37,7 +37,7 @@ This release delivers a major upgrade to security, account management, and usabi
 - Users receive advance notifications before expiration and alerts when a password has expired
 - Clicking a notification opens the password change screen directly
 
-![Alert image](assets/alert-en.png)
+![Alert image](https://github.com/GLSCanada/shipping-assets/blob/54384c6d97bb899cf5d52b2be5019e6be658e8b9/release-notes/3.5.0/assets/alert-en.png)
 
 #### Easier Password Changes
 
@@ -53,7 +53,7 @@ This release delivers a major upgrade to security, account management, and usabi
 - Admins can update other users' email addresses (with appropriate permissions)
 - When a primary account email changes, the organization's contact email updates automatically
 
-![User details image](assets/user-detail-en.png)
+![User details image](https://github.com/GLSCanada/shipping-assets/blob/54384c6d97bb899cf5d52b2be5019e6be658e8b9/release-notes/3.5.0/assets/user-detail-en.png)
 
 #### Notifications & Alerts
 
