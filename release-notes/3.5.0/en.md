@@ -10,6 +10,8 @@ This release delivers a major upgrade to security, account management, and usabi
 - Login responses are now consistent whether an account exists or not, reducing the risk of account discovery
 - Clear on-screen messaging explains when an account is locked and when it can be accessed again
 
+![Login image](assets/login-en.png)
+
 #### Improved Session Management
 
 - More reliable sign-in experience - users stay logged in during normal activity
@@ -27,16 +29,20 @@ This release delivers a major upgrade to security, account management, and usabi
 - Show/hide password option added to all password fields
 - Fully supported in English and French
 
+![Password image](assets/password-en.png)
+
 #### Password Expiry & Notifications
 
 - Passwords now expire after 12 months
 - Users receive advance notifications before expiration and alerts when a password has expired
 - Clicking a notification opens the password change screen directly
 
+![Alert image](assets/alert-en.png)
+
 #### Easier Password Changes
 
 - All users can change their own passwords
-- Forgot-password now works for all users with a valid email address
+- Forgot password now works for all users with a valid email address
 - When an admin resets a password, users are notified and required to update it on next login
 
 #### Email & Username Improvements
@@ -46,6 +52,8 @@ This release delivers a major upgrade to security, account management, and usabi
 - Users can update their email/username directly from the user menu
 - Admins can update other users' email addresses (with appropriate permissions)
 - When a primary account email changes, the organization's contact email updates automatically
+
+![User details image](assets/user-detail-en.png)
 
 #### Notifications & Alerts
 
